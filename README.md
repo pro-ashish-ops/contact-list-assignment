@@ -1,7 +1,7 @@
 # React Contact List
 This project is a single-page contact management application, which allows users to view, search and add new contact to their list.
 
-Deployed Application Link: https://contact-list-assignment-k3sutmdvv-pro-ashishs-projects.vercel.app/
+Deployed Application Link: https://contact-list-assignment-ebon.vercel.app/
 ## Notable Features
   Here all contacts are displayed in a clean, card-based layout.
   
